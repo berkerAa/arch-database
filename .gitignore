@@ -8,7 +8,7 @@ lerna-debug.log*
 .pnpm-debug.log*
 
 # Ignore Data
-sql/data/*
+**sql/data/*
 
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
